@@ -6,8 +6,8 @@ PiFire Display Interface Library
 
  Description: 
    This is a base class for displays using 
- a 240Hx320W resolution.  Other display 
- libraries will inherit this base class 
+ a 240Hx320W resolution.  We also added a statement for 480 x 320 resolution.
+ Other display libraries will inherit this base class 
  and add device specific features.
 
 *****************************************
